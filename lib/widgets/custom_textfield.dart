@@ -6,7 +6,7 @@ class CustomTextField extends StatelessWidget {
   final IconData icon;
   final bool isPassword;
 
-  CustomTextField({
+  const CustomTextField({super.key, 
     required this.controller,
     required this.labelText,
     required this.icon,
