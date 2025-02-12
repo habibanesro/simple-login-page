@@ -1,0 +1,36 @@
+# Flutter & Dart related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+build/
+*.lock
+*.log
+*.DS_Store
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Android
+android/.gradle/
+android/app/debug.keystore
+
+# iOS
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
